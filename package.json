@@ -8,6 +8,10 @@
     "test": "react-scripts test"
   },
   "dependencies": {
+    "@capacitor/app": "^4.1.1",
+    "@capacitor/haptics": "^4.1.0",
+    "@capacitor/keyboard": "^4.1.0",
+    "@capacitor/status-bar": "^4.1.1",
     "@ionic/react": "^6.3.1",
     "dayjs": "^1.11.7",
     "ionicons": "^6.0.3",
@@ -16,6 +20,7 @@
     "recharts": "^2.2.0"
   },
   "devDependencies": {
+    "@capacitor/cli": "^4.6.1",
     "react-scripts": "5.0.1"
   },
   "eslintConfig": {
